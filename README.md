@@ -1,3 +1,14 @@
+## Data Structures
+`What are Data Structures?`
+Made up of 2 words
+"DATA" + "STRUCTURES"
+It is a way to arrange data in computers
+Example: You might want to store data in
+* Linear fashion – Array/ Linked List
+* One on the other – Stacks
+* Hierarchical Fashion – Trees
+* Connect Nodes – Graph
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
