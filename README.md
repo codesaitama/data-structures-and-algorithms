@@ -1,5 +1,7 @@
 ## Data Structures
+
 `What are Data Structures?`
+
 Made up of 2 words
 "DATA" + "STRUCTURES"
 It is a way to arrange data in computers
@@ -8,6 +10,19 @@ Example: You might want to store data in
 * One on the other – Stacks
 * Hierarchical Fashion – Trees
 * Connect Nodes – Graph
+
+`List of Data Structures using Java`
+
+* Array
+* Linked List
+* Stack 
+* Queue
+* Binary Tree
+* Binary Search Tree
+* Heap
+* Hashing 
+* Graph
+
 
 ## Getting Started
 
